@@ -1,0 +1,37 @@
+{
+  "name": "Dr Yen Adams Sokama-Neuyam",
+  "logo": "Dr Yen S-N",
+  "firstName": "Yen Adams",
+  "lastName": "Sokama-Neuyam",
+  "tagline": "Petroleum engineer and CO₂ storage researcher helping Africa move toward net-zero, through research, teaching and practical climate solutions.",
+  "location": "Based in Kumasi, Ghana",
+  "ctaLabel": "Let's connect",
+  "portrait": "assets/yen-knust.jpg",
+  "aboutHeading": "Hello, I’m Dr Yen",
+  "aboutIntro": "Senior Lecturer and Head of Petroleum Engineering at KNUST, and Scientific Director of the Net-Zero Carbon Emission Lab.",
+  "mission": "I want my students to leave not just with knowledge, but with the ability to think, adapt, and solve problems.",
+  "polaroids": ["assets/polaroid-1.svg", "assets/polaroid-2.svg", "assets/polaroid-3.svg", "assets/polaroid-4.svg"],
+  "roles": [
+    { "label": "CO₂ Storage", "description": "My core expertise is CO₂ geosequestration. My PhD was among the first to study how salt precipitation and fines mobilization damage injectivity, and I develop mitigation strategies for CO₂ injection in clay-rich formations." },
+    { "label": "Net-Zero Advisory", "description": "Through the Net-Zero Carbon Emission Lab I help organisations measure, monitor and reduce greenhouse gas emissions, from campus footprints to the carbon intensity of oil and gas operations." },
+    { "label": "Researcher", "description": "Published across Greenhouse Gases: Science and Technology, the International Journal of Greenhouse Gas Control, Scientific Reports and more, covering CCS, underground hydrogen storage and enhanced rock weathering." },
+    { "label": "Educator", "description": "I bring generative AI and real-time feedback into petroleum engineering classes, connecting theory to industry practice and mentoring the next generation of African engineers." }
+  ],
+  "projectsIntro": "Research and decarbonisation projects led through the Net-Zero Carbon Emission Lab at KNUST.",
+  "otherWorkHeading": "Research areas",
+  "careerIntro": "From the University of Stavanger in Norway back to KNUST in Ghana, a path built on research that serves Africa’s energy transition.",
+  "careerLink": "https://www.linkedin.com/in/yen-adams-sokama-neuyam-ph-d-79a7a1159",
+  "careerLinkLabel": "View Full Career",
+  "achievementsHeading": "Research & Recognition",
+  "blogIntro": "Selected research publications and writing on CO₂ storage, injectivity and the net-zero transition.",
+  "blogQuote": "Know yourself, be prepared to work hard, and never stop learning.",
+  "socials": [
+    { "type": "linkedin", "url": "https://www.linkedin.com/in/yen-adams-sokama-neuyam-ph-d-79a7a1159" }
+  ],
+  "email": "",
+  "seo": {
+    "title": "Dr Yen Adams Sokama-Neuyam | CO₂ Storage & Net-Zero Researcher",
+    "description": "Concept preview. Dr Yen Adams Sokama-Neuyam, Senior Lecturer in Petroleum Engineering at KNUST and Scientific Director of the Net-Zero Carbon Emission Lab.",
+    "image": ""
+  }
+}

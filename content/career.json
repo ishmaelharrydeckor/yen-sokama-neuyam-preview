@@ -1,0 +1,6 @@
+[
+  { "role": "Head of Department", "company": "Petroleum Eng., KNUST", "start": "2025", "end": "", "badge": "", "logo": "assets/logo-knust.svg" },
+  { "role": "Scientific Director", "company": "Net-Zero Carbon Lab, KNUST", "start": "2023", "end": "", "badge": "", "logo": "assets/logo-ncel.svg" },
+  { "role": "Senior Lecturer", "company": "Petroleum Eng., KNUST", "start": "2017", "end": "", "badge": "", "logo": "assets/logo-knust.svg" },
+  { "role": "Assistant Professor", "company": "Univ. of Stavanger", "start": "2016", "end": "2017", "badge": "", "logo": "assets/logo-uis.svg" }
+]
